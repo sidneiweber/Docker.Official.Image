@@ -1,0 +1,15 @@
+{ "dependencies" :{
+	"lodash" : "*",
+	"moment": "*",
+	"async": "*",
+	"chalk": "*",
+	"cline": "*",
+	"coffee-script": "*",
+	"human-to-cron": "*",
+	"hubot-cron": ">= 0.1.0",
+	"hubot-scripts": ">= 2.4.2",
+	"hubot": ">= 2.5.1",
+	"hubot-brexit": "*",
+	"hubot-schedule": ">= 0.6.2"
+}
+}
