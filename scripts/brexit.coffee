@@ -53,6 +53,9 @@ module.exports = (robot) ->
 
   robot.respond  /who will win referendum/i, (msg) ->
     msg.send "we will! :heart:"
+  
+ robot.respond  /dados elliot/i, (msg) ->
+    msg.send "Esses são os dados da Elliot! :heart:"
 
   robot.respond  /who is winning referendum/i, (msg) ->
     msg.send "oh no... they are. They must be cheating :cry:"
